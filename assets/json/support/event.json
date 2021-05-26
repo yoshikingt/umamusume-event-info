@@ -7,6 +7,7 @@
         "id": "トウカイテイオー",
         "descriptions": [
             {
+                "id": null,
                 "title": "ボクのやり方",
                 "options": [
                     {
@@ -20,6 +21,7 @@
                 ]
             },
             {
+                "id": null,
                 "title": "ボクの武器",
                 "options": [
                     {

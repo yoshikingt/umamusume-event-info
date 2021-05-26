@@ -7,6 +7,7 @@
         "id": "[トップ・オブ・ジョイフル]トウカイテイオー",
         "descriptions": [
             {
+                "id": null,
                 "title": "カラオケでパワーアップ！？",
                 "options": [
                     {
@@ -20,6 +21,7 @@
                 ]
             },
             {
+                "id": null,
                 "title": "女帝vs帝王",
                 "options": [
                     {

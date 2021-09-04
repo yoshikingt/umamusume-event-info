@@ -4,7 +4,7 @@
       <b-tab title="育成ウマ娘" active>
         <Event :select-array="trainingSelectArray" :event-array="trainingEventArray" />
       </b-tab>
-      <b-tab title="サポートカード">
+      <b-tab title="サポート">
         <Event :select-array="supportSelectArray" :event-array="supportEventArray" />
       </b-tab>
     </b-tabs>
